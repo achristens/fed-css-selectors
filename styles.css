@@ -59,6 +59,6 @@ a[title="Bitmaker"]:hover{
   background-color: yellow;
 }
 
-#advanced-selectors ul a{
+#advanced-selectors ul a:active{
   background-color: red;
 }
